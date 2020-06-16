@@ -12,6 +12,14 @@ html, body {
 	outline: none;
 }
 
+.zoom-anim {
+	transition: all 0.2s ease-in-out;
+}
+
+.zoom-anim:hover {
+	transform: scale(1.1);
+}
+
 .my-8p {
     margin-top: 8%;
 	margin-bottom: 8%;
