@@ -1,22 +1,23 @@
-.navbar {
+/* Vous devez utiliser en priorité des classes mais le bandeau haut devra être stylisé via un ID */
+#navbar {
 	background-color: #2799fa;
 }
 
-.navbar a {
+#navbar a {
 	color: gainsboro !important;
 	font-size: 0.9em;
 }
 
-.navbar li {
+#navbar li {
 	margin-left: 3em;
 	margin-right: 3em;
 }
 
-.navbar li:hover {
+#navbar li:hover {
 	background-color: #007ae6;
 }
 
-.navbar-brand {
+#navbar-brand {
 	text-align: center;
 	font-weight: 900;
 	width: 50%;
