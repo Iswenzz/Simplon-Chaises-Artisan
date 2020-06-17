@@ -14,15 +14,6 @@
 	color: white;
 }
 
-@media (max-device-width: 1224px) {
-	.image-header h1 {
-		font-size: 3em;
-		font-weight: 900;
-		padding-top: 17vh;
-		color: white;
-	}
-}
-
 .image-header h2 {
 	font-size: 2em;
 	padding-top: 4vh;
@@ -46,4 +37,17 @@
 
 .product-col {
 	padding: 1em;
+}
+
+@media (max-device-width: 1224px) {
+	.image-header h1 {
+		font-size: 3em;
+		font-weight: 900;
+		padding-top: 17vh;
+		color: white;
+	}
+
+	.product-header h2 {
+		font-size: 3em;
+	}
 }

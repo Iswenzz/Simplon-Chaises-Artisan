@@ -40,3 +40,9 @@
 .footer-contact-button path {
 	color: white;
 }
+
+@media (max-device-width: 1224px) {
+	.footer h2 {
+		font-size: 1.5em;
+	}
+}
