@@ -15,3 +15,5 @@ Voici quelques contraintes :
 il faut qu'il contienne à minima un titre et un sous titre et des listes
 
 Le TP est à rendre sur GIT le jeudi 18 Juin 2020 en fin de journée.
+
+Preview: https://iswenzz.com/simplon_html_css/courses/tp1/
