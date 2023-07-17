@@ -1,5 +1,4 @@
-![](https://i.imgur.com/XFvRaaO.png)
-# Simplon HTML CSS TP
+# Simplon Chaises Artisan
 
 Réaliser le site d'un artisan.
 
